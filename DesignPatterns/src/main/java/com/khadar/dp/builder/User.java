@@ -137,7 +137,7 @@ public class User {
      */
     @Override
     public String toString() {
-        return firstName+" "+address;
+        return firstName+" "+address+" "+phone;
     }
 }
 
